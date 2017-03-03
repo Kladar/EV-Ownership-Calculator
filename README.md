@@ -1,0 +1,2 @@
+# EV-Ownership-Calculator
+This is a simple auto loan and cost of ownership calculator spreadsheet that fills in the rebates and tax credits for your state and calculates your monthly loan payments. Online loan calculators are too opaque and not robust enough (not to mention loaded with ads). This make it easy to do at home. Have grand ideas for a web based version someday. Maybe a full solar/EV workup for your home, with comparisons to UBER and Lyft use. Commodification of transportation is coming and I'd like to be ready. 
